@@ -15,6 +15,6 @@ if (input=="ja") {
 
 }
 if (input=="nej") {
-    console.log("fel svar")
+    console.log("haha fel svar")
 }
 
